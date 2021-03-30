@@ -28,3 +28,5 @@ out
 *.iml
 *.txt
 .gitignore
+*.docx
+*.doc
